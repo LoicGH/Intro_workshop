@@ -24,4 +24,3 @@ int main() {
     cout << "area : " <<rect.area();
     return 0;
 };
-
